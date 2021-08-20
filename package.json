@@ -18,6 +18,12 @@
     "@angular/platform-browser": "~12.1.0",
     "@angular/platform-browser-dynamic": "~12.1.0",
     "@angular/router": "~12.1.0",
+    "@turtlenetwork/bignumber": "^1.1.1",
+    "@turtlenetwork/data-entities": "^8.0.3",
+    "@turtlenetwork/signature-adapter": "^6.1.1",
+    "@turtlenetwork/waves-transactions": "^4.2.1",
+    "@waves/bignumber": "^1.1.1",
+    "@waves/data-entities": "^2.0.6",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
